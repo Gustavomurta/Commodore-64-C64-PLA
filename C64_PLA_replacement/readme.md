@@ -1,1 +1,1 @@
-Comoodore 64 - PLA Chip replacement
+Commodore 64 - PLA Chip replacement
