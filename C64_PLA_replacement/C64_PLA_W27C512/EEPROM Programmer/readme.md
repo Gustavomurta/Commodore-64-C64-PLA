@@ -1,4 +1,4 @@
-EEPROM Programmer - Arduino Mega 
+EEPROM W27C512 Programmer - Arduino Mega 
 
 
 
