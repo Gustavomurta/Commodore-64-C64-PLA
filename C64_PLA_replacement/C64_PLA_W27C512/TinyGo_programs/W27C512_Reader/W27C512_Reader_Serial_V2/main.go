@@ -39,7 +39,7 @@ func main() {
 
 	s.Flush() // garbage clean at serial port
 
-	fw, err := os.Create("W27C512_.bin") // create a bin format file up to 512K Bytes FLASH_MX28F1000.bin
+	fw, err := os.Create("W27C512_.bin") // create a bin format file 
 
 	if err != nil { // if any error
 		log.Fatal(err) // cancel and print error message
